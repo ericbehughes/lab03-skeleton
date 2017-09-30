@@ -2,13 +2,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    tools:context=".MainActivity" >
+    tools:context=".ActivityOne"
+    android:orientation="vertical">
 
     <TextView android:id="@+id/create"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/onCreate" />
+        android:text="@string/onCreate"
+        />
     
     <TextView android:id="@+id/start"
         android:layout_width="wrap_content"
@@ -20,7 +21,7 @@
         android:layout_height="wrap_content"
         android:text="@string/onResume" />
     
-    <TextView android:id="@+id/pause"
+<TextView android:id="@+id/pause"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/onPause" />

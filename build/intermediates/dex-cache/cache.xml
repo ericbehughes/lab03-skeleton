@@ -3,30 +3,30 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\owner\gitstuff\lab03-skeleton\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9778769c17f0b493354490fa11ba1a90fa4ac704">
-        <dex dex="C:\Users\owner\gitstuff\lab03-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e09d1c7e5733dc9020f45c8ba45f6d0fd02e83e6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\owner\gitstuff\lab03-skeleton\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\owner\gitstuff\lab03-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_76cb5f5453e07d1281892a1d9ff5b46270c365d4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\owner\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jar="C:\Users\ehugh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\owner\gitstuff\lab03-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_1f7d7185720ee405b739efedef6621e093008868\classes.dex" />
+        <dex dex="C:\Users\ehugh\OneDrive\androidlabs\lab03-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_7a42708d1e40206a0d320e3d08fa9188a7716ec3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ehugh\OneDrive\androidlabs\lab03-skeleton\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\ehugh\OneDrive\androidlabs\lab03-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_22ceaf0933fe0f1cc7d0808f9de6f7be59393418\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ehugh\OneDrive\androidlabs\lab03-skeleton\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2837499a4c5accf2a08b151260ad394707136c6d">
+        <dex dex="C:\Users\ehugh\OneDrive\androidlabs\lab03-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6c145f352d68fe0e098932c5bc0d0ed39b27251d\classes.dex" />
     </item>
 
 </items>
